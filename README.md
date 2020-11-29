@@ -12,8 +12,8 @@ Socks Squid
 # Apps 2
 OpenVPN  
 Proxy Squid  
-Stunnel Socks 
-Squid  
+Stunnel 
+Socks Squid  
 
 If you do it please knock me personally    
 
